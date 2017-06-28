@@ -1,0 +1,37 @@
+2017-06-13 Wang Sheng <liaowencai518@qq.com>
+
+  * Start working on NaiveNet.
+  * Add file Atomic.h
+  * Add file CurrentThread.h
+  
+2017-06-13 Wang Sheng <liaowencai518@qq.com> 
+
+  * Add file Types.h
+  * use std::string class directly
+  
+2017-06-15 Wang Sheng <liaowencai518@qq.com> 
+
+  * Add file Thread.h, Thread.cpp
+  * Add file Mutex.h
+  * Add file Condition.h, Condition.cpp
+  * Add file CountDownLatch.h, CountDownLatch.cpp
+  * Add file ThreadLocal.h
+  
+2017-06-15 Wang Sheng <liaowencai518@qq.com> 
+
+  * Add file ThreadLocalSingleton.h
+  * Add file Singleton.h
+ 
+2017-06-20 Wang Sheng <liaowencai518@qq.com>
+ 
+  * Copy & modify file StringPiece.h
+  * Add file FileUtil.h, FileUtil.cc
+  * Copy file ProcessInfo.h, ProcessInfo.cc
+  * Add file BlockingQueue.h
+  * Copy file Logfile.h, Logfile.cc
+  * Copy file Logstream.h, Logstream.cc
+  * Copy file Logging.h, Logging.cc
+  
+2017-06-28 Wang Sheng <liaowencai518@qq.com> 
+
+  * Finish NaiveNet base and finish all the tests 
